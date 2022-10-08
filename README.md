@@ -12,7 +12,7 @@ Luthfi</a></h1>
 
 - 🌱 I’m currently Working on Fullstack web ( ReactJs & NodeJs )
 
-- 🤝 I’m available for freelancing.
+- 🤝 I’m available for freelancing
 
 - 📫 How to reach me **[luthfikhoirulanwar55@gmail.com](mailto:luthfikhoirulanwar55@gmail.com)**
 
