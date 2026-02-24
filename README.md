@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **[luthfikhoirulanwar55@gmail.com](mailto:luthfikhoirulanwar55@gmail.com)**
 
-- 📄 Know about my experiences <a href="https://filab.my.id" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://filab.my.id" target="blank">Resume</a> | <a href="./New ATS CV.pdf" target="blank">Download CV (PDF)</a>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
