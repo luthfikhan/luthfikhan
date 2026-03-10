@@ -39,16 +39,18 @@
 		 
 		// Sections Scroll
 		if($("body").hasClass("side-header")){
-		$('.smooth-scroll').on('click', function() {
-			event.preventDefault();
+		$('.smooth-scroll').on('click', function(event) {
 			var sectionTo = $(this).attr('href');
+			if (!sectionTo || sectionTo.charAt(0) !== '#') { return; }
+			event.preventDefault();
 			$('html, body').stop().animate({
 			  scrollTop: $(sectionTo).offset().top}, 500, 'easeOutExpo');
 		});
 		   }else {
-		$('.smooth-scroll').on('click', function() {
-			event.preventDefault();
+		$('.smooth-scroll').on('click', function(event) {
 			var sectionTo = $(this).attr('href');
+			if (!sectionTo || sectionTo.charAt(0) !== '#') { return; }
+			event.preventDefault();
 			$('html, body').stop().animate({
 			  scrollTop: $(sectionTo).offset().top - 10}, 500, 'easeOutExpo');
 		});
